@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:http://gitlab.common-lisp.net/clnuplot/clnuplot.git   |
-| commit  |   |
-| systems | clnuplot |
-|---------+-------------------------------------------|
+aa97f33---------+-------------------------------------------|
+aa97f33 source  | git:http://gitlab.common-lisp.net/clnuplot/clnuplot.git   |
+aa97f33 commit  |   |
+aa97f33 systems | clnuplot |
+aa97f33---------+-------------------------------------------|
 
